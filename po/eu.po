@@ -1,7 +1,7 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Basque translations form com.github.phase1geo.minder package.
+# Copyright (C) 2019 THE com.github.phase1geo.minder'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the com.github.phase1geo.minder package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Alexander Gabilondo Urkijo <alexgabi@disroot.org>, 2021.
 #
 msgid ""
 msgstr ""
@@ -13,8 +13,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"Last-Translator: Alexander Gabilondo\n"
+"Language-Team: none\n"
 "X-Generator: Poedit 2.3\n"
 
 #: src/exports/ExportCSV.vala:26
